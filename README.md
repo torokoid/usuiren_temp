@@ -91,7 +91,7 @@ padding: 10px;}
     </div>
     
     <div class="section">
-      <p><span class="yellow">申し込み用紙は下記「メール送信」をクリックして開くメールにて受け付けます</span></p>
+      <p><span class="yellow">記入した申し込み用紙は下記「メール送信」<br>をクリックして開くメールにて受け付けます</span></p>
     　<a href="mailto:m.tanaka@bigtree-net.jp?cc=tetsu1200cf21r25@ymobile.ne.jp&subject=大会出場申し込み&body=大会申し込み書類添付します。">メール送信</a>
     
     </div>
