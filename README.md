@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name=”viewport” content=”width=device-width,initial-scale=1.0″>
+
 <title>宇都宮市水泳連盟</title>
 <meta name="keywords" content="宇都宮市水泳連盟" />
 <meta name="description" content="" />
@@ -53,7 +53,7 @@
     <div class="section">
       <p class="auto-style5">■令和7年度　年間予定表■<br></p>
       <br>
-        <table style="width:100%;text-align:center" border="1" class="auto-style3">
+        <table style="width:100;text-align:center" border="1" class="auto-style3">
 			<tr style="text-align:center">
 				<td class="auto-style2"><b>事業名</b></td><td class="auto-style2"><b>期日</b></td><td class="auto-style2"><b>場所</b></td>
 			</tr>
