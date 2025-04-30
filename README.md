@@ -84,7 +84,7 @@
     
     <div class="section">
       <p class="auto-style5">■申し込み用紙はこちらをクリックして開くメールにて受け付けます■<br></p>
-    　<a href="mailto:m.tanaka@bigtree-net.jp,cc=cc1@example.com,cc2@example.com&subject=大会出場申し込み&body=大会申し込み書類添付します。">メール送信</a>
+    　<a href="mailto:m.tanaka@bigtree-net.jp?cc=cc1@example.com,cc2@example.com&subject=大会出場申し込み&body=大会申し込み書類添付します。">メール送信</a>
     
     </div>
     
