@@ -62,7 +62,7 @@ padding: 10px;}
     <div class="section">
       <p class="auto-style5">■令和7年度　年間予定表■<br></p>
       <br>
-        <table style="width:100;text-align:center" border="1" class="auto-style3">
+        <table style="width:100;text-align:center" border="1">
 			<tr style="text-align:center">
 				<td class="auto-style2"><b>事業名</b></td><td class="auto-style2"><b>期日</b></td><td class="auto-style2"><b>場所</b></td>
 			</tr>
@@ -91,7 +91,7 @@ padding: 10px;}
     </div>
     
     <div class="section">
-      <p><span class="yellow">記入した申し込み用紙は下記「メール送信」<br>をクリックして開くメールにて受け付けます</span></p>
+      <p><span class="yellow">記入した申し込み用紙は下記「メール送信」をクリックして開くメールにて受け付けます</span></p>
     　<a href="mailto:m.tanaka@bigtree-net.jp?cc=tetsu1200cf21r25@ymobile.ne.jp&subject=大会出場申し込み&body=大会申し込み書類添付します。">メール送信</a>
     
     </div>
