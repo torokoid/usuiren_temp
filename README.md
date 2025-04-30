@@ -40,6 +40,15 @@
 	font-size:16pt;
 }
 
+.red {color:#ff0000;}
+.grey {color:#ffffff; background:#999999;}
+.snow {color:#fffafa;}
+.yellow {color:#ff0000; background:#ffff00;}
+.blue {color:#0000ff;}
+.white {color:#ffffff; blinking;}
+.waku {border:2px dotted #99cc66;
+line-height: 200%;
+padding: 10px;}
 
 </style>
 
@@ -82,7 +91,7 @@
     </div>
     
     <div class="section">
-      <p>申し込み用紙は下記「メール送信」をクリックして開くメールにて受け付けます</p>
+      <p><span class="yellow">申し込み用紙は下記「メール送信」をクリックして開くメールにて受け付けます</span></p>
     　<a href="mailto:m.tanaka@bigtree-net.jp?cc=tetsu1200cf21r25@ymobile.ne.jp&subject=大会出場申し込み&body=大会申し込み書類添付します。">メール送信</a>
     
     </div>
