@@ -60,17 +60,17 @@ padding: 10px;}
   <!--メイン-->
 <div id="main">
     <div class="section">
-      <p class="auto-style5">■令和7年度　年間予定表■<br></p>
+      <p class="auto-style5">■令和8年度　年間予定表■<br></p>
       <br>
         <table style="width:100;text-align:center">
 			<tr style="text-align:center">
 				<td class="auto-style2"><b>事業名</b></td><td class="auto-style2"><b>期日</b></td><td class="auto-style2"><b>場所</b></td>
 			</tr>
 			<tr>
-				<td>役員会</td><td>5月17日（土）</td><td>中央生涯学習センター</td>
+				<td>役員会</td><td>4月18日（土）</td><td>中央生涯学習センター</td>
 			</tr>
 			<tr>
-				<td>定期総会</td>	<td>5月17日（土）</td><td>中央生涯学習センター</td>
+				<td>定期総会</td>	<td>4月18日（土）</td><td>中央生涯学習センター</td>
 			</tr>
 			<tr>
 				<td>市民水泳大会</td><td>6月29日（日）<br><a href="https://www.usuiren.com/event/smin_Y.pdf">大会要項</a><br><a href="https://www.usuiren.com/event/smin_M.pdf">申込用紙(pdf)</a>、<a href="https://www.usuiren.com/event/smin_M.xls">申込用紙(Excel)</a></td><td>ドリームプールかわち</td>
