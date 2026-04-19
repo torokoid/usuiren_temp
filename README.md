@@ -74,16 +74,28 @@ padding: 10px;}
 				<td>定期総会</td>	<td>4月18日（土）</td><td>中央生涯学習センター</td>
 			</tr>
 			<tr>
-				<td>市民水泳大会</td><td>6月29日（日）<br><a href="https://www.usuiren.com/event/smin_Y.pdf">大会要項</a><br><a href="https://www.usuiren.com/event/smin_M.pdf">申込用紙(pdf)</a>、<a href="https://www.usuiren.com/event/smin_M.xls">申込用紙(Excel)</a></td><td>ドリームプールかわち</td>
+				<td>市民大会プログラム編成会議</td>	<td>6月5日（金）</td><td>ビッグツリースポーツクラブ本店</td>
 			</tr>
 			<tr>
-				<td>水泳教室Ⅰ</td><td>未定</td><td>駅東公園プール</td>
+				<td>市民大会前レッスン会</td><td>6月27日（土）<br><a href="https://www.usuiren.com/event/smin_Y.pdf">大会要項</a><br><a href="https://www.usuiren.com/event/smin_M.pdf">申込用紙(pdf)</a>、<a href="https://www.usuiren.com/event/smin_M.xls">申込用紙(Excel)</a></td><td>日環アリーナ栃木</td>
 			</tr>
 			<tr>
-				<td>水泳教室Ⅱ</td><td>未定</td><td>陽南プール</td>
+				<td>市民大会前準備</td><td>6月27日（土）</td><td>ドリームプールかわち</td>
 			</tr>
 			<tr>
-				<td>市小学生水泳大会</td><td>9月7日（日）<br><a href="https://www.usuiren.com/event/syou_Y.pdf">大会要項</a><br><a href="https://www.usuiren.com/event/syou_M.pdf">申込用紙(pdf)</a>、<a href="https://www.usuiren.com/event/syou_M.xls">申込用紙(Excel)</a></td><td>ドリームプールかわち</td>
+				<td>市民水泳大会</td><td>7月下旬〜8月上旬<br><a href="https://www.usuiren.com/event/smin_Y.pdf">大会要項</a><br><a href="https://www.usuiren.com/event/smin_M.pdf">申込用紙(pdf)</a>、<a href="https://www.usuiren.com/event/smin_M.xls">申込用紙(Excel)</a></td><td>駅東公園プール</td>
+			</tr>
+			<tr>
+				<td>小学生大会プログラム編成会議</td><td>8月7日（金）</td><td>ビッグツリースポーツクラブ本店</td>
+			</tr>
+			<tr>
+				<td>小学生大会前レッスン会</td><td>9月5日（土）<br><a href="https://www.usuiren.com/event/smin_Y.pdf">大会要項</a><br><a href="https://www.usuiren.com/event/smin_M.pdf">申込用紙(pdf)</a>、<a href="https://www.usuiren.com/event/smin_M.xls">申込用紙(Excel)</a></td><td>日環アリーナ栃木</td>
+			</tr>
+			<tr>
+				<td>小学生大会前準備</td><td>9月5日（土）</td><td>ドリームプールかわち</td>
+			</tr>
+			<tr>
+				<td>市小学生水泳大会</td><td>9月6日（日）<br><a href="https://www.usuiren.com/event/syou_Y.pdf">大会要項</a><br><a href="https://www.usuiren.com/event/syou_M.pdf">申込用紙(pdf)</a>、<a href="https://www.usuiren.com/event/syou_M.xls">申込用紙(Excel)</a></td><td>ドリームプールかわち</td>
 			</tr>
 			<tr>
 				
