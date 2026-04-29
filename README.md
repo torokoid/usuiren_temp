@@ -83,7 +83,7 @@ padding: 10px;}
 				<td>市民大会前準備</td><td>6月27日（土）</td><td>ドリームプールかわち</td>
 			</tr>
 			<tr>
-				<td>市民水泳大会</td><td>6月28日（日）<br><a href="https://www.usuiren.com/event/smin_Y.pdf">大会要項</a><br><a href="https://www.usuiren.com/event/smin_M.pdf">申込用紙(pdf)</a>、<a href="https://www.usuiren.com/event/smin_M.xls">申込用紙(Excel)</a></td><td>駅東公園プール</td>
+				<td>市民水泳大会</td><td>6月28日（日）<br><a href="https://www.usuiren.com/event/smin_Y.pdf">大会要項</a><br><a href="https://www.usuiren.com/event/smin_M.pdf">申込用紙(pdf)</a>、<a href="https://www.usuiren.com/event/smin_M.xls">申込用紙(Excel)</a></td><td>ドリームプールかわち</td>
 			</tr>
 			<tr>
 				<td>ジュニア水泳大会</td><td>7月下旬〜8月上旬<br><a href="https://www.usuiren.com/event/smin_Y.pdf">大会要項</a><br><a href="https://www.usuiren.com/event/smin_M.pdf">申込用紙(pdf)</a>、<a href="https://www.usuiren.com/event/smin_M.xls">申込用紙(Excel)</a></td><td>駅東公園プール</td>
