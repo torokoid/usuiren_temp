@@ -75,7 +75,7 @@ padding: 10px;}
 
 
 <video id="bg-video" autoplay muted loop playsinline>
-    <source src="https://torokoid.github.io/20260708_utsunomiya/background.mp4" type="video/mp4">
+    <source src="https://torokoid.github.io/usuiren_temp/background.mp4" type="video/mp4">
 </video>
 
 
