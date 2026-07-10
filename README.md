@@ -51,10 +51,33 @@
 line-height: 200%;
 padding: 10px;}
 
+
+
+#bg-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    height: 100%;
+
+    object-fit: cover;
+
+    z-index: -1;
+}
+
+
+
 </style>
 
 </head>
 <body>
+
+
+<video id="bg-video" autoplay muted loop playsinline>
+    <source src="https://torokoid.github.io/20260708_utsunomiya/background.mp4" type="video/mp4">
+</video>
+
 
 <!--コンテンツ-->
 <div id="contents" class="clearfix">
